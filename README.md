@@ -135,3 +135,4 @@ Proprietary software. All rights reserved by MackenzieCampbelAndross.
 
 <!-- commit-log: refactor(search): optimize token normalization and regex replacement speed -->
 <!-- commit-log: perf(indexer): throttle background directory crawler to minimize disk I/O load -->
+<!-- commit-log: style(ui): polish omnibar input glow and keyboard focus indicators -->
