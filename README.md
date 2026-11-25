@@ -134,3 +134,4 @@ Contributions must adhere to Conventional Commits, pass all quality gates, and a
 Proprietary software. All rights reserved by MackenzieCampbelAndross.
 
 <!-- commit-log: refactor(search): optimize token normalization and regex replacement speed -->
+<!-- commit-log: perf(indexer): throttle background directory crawler to minimize disk I/O load -->
